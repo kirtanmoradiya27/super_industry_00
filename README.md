@@ -37,13 +37,11 @@ export default {
   },
   plugins: [],
 }
-
 ```
 
 # index.css
 
 ```
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
